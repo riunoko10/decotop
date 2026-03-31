@@ -14,8 +14,8 @@ desktop.ini
 node_modules/
 npm-debug.log*
 
-# Imagen original (el logo optimizado está en dist/logo/Logo_edited.webp)
-logo/
+# Imagen original (el logo optimizado está en dist/logo/)
+/logo/
 
 # Archivo de prototipo / diseño (no forma parte del sitio desplegado)
 decotop-brand-v2.jsx
