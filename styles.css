@@ -39,7 +39,7 @@ header {
   gap: 12px;
   text-decoration: none;
 }
-.logo-link img { height: 46px; width: auto; }
+.logo-link img { height: 80px; width: auto; aspect-ratio: 3/1; object-fit: contain; }
 
 nav { display: flex; gap: 36px; align-items: center; }
 nav a {
@@ -493,6 +493,7 @@ nav a:hover { color: var(--rosa); }
   text-align: center;
 }
 .about-inner { max-width: 640px; margin: 0 auto; }
+.about-mascot { height: 100px; width: auto; margin-bottom: 5px; opacity: 0.85; filter: invert(1); }
 .about-section .section-title { color: white; margin-bottom: 20px; }
 .about-section .section-title em { font-style: italic; color: var(--rosa); }
 
@@ -568,6 +569,7 @@ footer a { color: var(--rosa); text-decoration: none; }
   nav { display: none; }
   .hamburger { display: flex; }
   header { padding: 0 20px; }
+  .logo-link img { height: 46px; }
 
   .product-grid {
     grid-template-columns: repeat(2, 1fr);
