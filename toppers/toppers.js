@@ -13,9 +13,9 @@ const topperProducts = [
     name: 'Decorativo Love',
     desc: 'Pieza decorativa 3D con la palabra Love. Acabado liso en rosa. Ideal para mesas de regalo, bodas y decoración de hogar.',
     images: [
-      '../dist/imagenes/toppers/love/love_1_p.webp',
-      '../dist/imagenes/toppers/love/love_1_r.webp',
-      '../dist/imagenes/toppers/love/love_1_w.webp',
+      '../dist/imagenes/toppers/love/love_1/love_1_p.webp',
+      '../dist/imagenes/toppers/love/love_1/love_1_r.webp',
+      '../dist/imagenes/toppers/love/love_1/love_1_w.webp',
     ],
     badge: null
   },
@@ -25,9 +25,9 @@ const topperProducts = [
     name: 'Decorativo "Lo-ve"',
     desc: 'Pieza decorativa 3D con corazones integrados. Perfecta para detalles de amor, aniversarios y San Valentín.',
     images: [
-      '../dist/imagenes/toppers/love/love_3_p.webp',
-      '../dist/imagenes/toppers/love/love_3_b.webp',
-      '../dist/imagenes/toppers/love/love_3_r.webp',
+      '../dist/imagenes/toppers/love/love_3/love_3_p.webp',
+      '../dist/imagenes/toppers/love/love_3/love_3_b.webp',
+      '../dist/imagenes/toppers/love/love_3/love_3_r.webp',
     ],
     badge: null
   },
@@ -37,10 +37,10 @@ const topperProducts = [
     name: 'Topper "Feliz Día"',
     desc: 'Disponible en negro holográfico, rojo glitter y más colores. Letras caladas de gran impacto para torta o arreglo floral.',
     images: [
-      '../dist/imagenes/toppers/feliz-dia/dia_1a_v.webp',
-      '../dist/imagenes/toppers/feliz-dia/dia_1b_v.webp',
-      '../dist/imagenes/toppers/feliz-dia/dia_1a_b.webp',
-      '../dist/imagenes/toppers/feliz-dia/dia_1b_b.webp',
+      '../dist/imagenes/toppers/feliz-dia/dia_1/dia_1a_v.webp',
+      '../dist/imagenes/toppers/feliz-dia/dia_1/dia_1b_v.webp',
+      '../dist/imagenes/toppers/feliz-dia/dia_1/dia_1a_b.webp',
+      '../dist/imagenes/toppers/feliz-dia/dia_1/dia_1b_b.webp',
     ],
     badge: null
   },
@@ -48,12 +48,12 @@ const topperProducts = [
     id: 7,
     type: 'dia-mujer',
     name: 'Topper "Super Mujer"',
-    desc: 'Topper en acrílico morado holográfico con escudo y texto. Ideal para celebrar a la mujer especial de tu vida.',
+    desc: 'Topper en plástico holográfico con escudo y texto calado. Disponible en negro, rojo, rosado, blanco y violeta. Ideal para celebrar a la mujer especial de tu vida.',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_10a_v.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_10b_v.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_10a_b.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_10b_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10a_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_b.webp',
     ],
     badge: null
   },
@@ -61,14 +61,14 @@ const topperProducts = [
     id: 8,
     type: 'dia-mujer',
     name: 'Topper Rectangular "Feliz Día de la Mujer"',
-    desc: 'Topper rectangular con flores decorativas y texto calado en morado holográfico. Acabado premium brillante.',
+    desc: 'Topper rectangular en plástico holográfico con flores decorativas y texto calado. Disponible en negro, rojo, rosado, blanco y violeta. Acabado brillante de alta calidad.',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_4a_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_4b_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_4a_b.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_4b_b.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_4a_v.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_4b_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4a_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4a_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_v.webp',
     ],
     badge: null
   },
@@ -76,16 +76,16 @@ const topperProducts = [
     id: 5,
     type: 'dia-mujer',
     name: 'Decorativo "Feliz Día de la Mujer"',
-    desc: 'Decorativo en acrílico rojo con diseño script y corazón. Ideal para arreglos florales del Día de la Mujer.',
+    desc: 'Decorativo en plástico holográfico con diseño script y corazón. Disponible en negro, rojo, rosado, blanco y violeta. Ideal para arreglos florales del Día de la Mujer.',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_1a_b.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_1b_b.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_1a_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_1b_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_1a_v.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_1b_v.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_1c_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_1d_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1a_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1a_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1c_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1d_r.webp',
     ],
     badge: null
   },
@@ -93,20 +93,159 @@ const topperProducts = [
     id: 6,
     type: 'dia-mujer',
     name: 'Decorativo Redondo "La mejor mujer del mundo"',
-    desc: 'Decorativo circular holográfico negro con texto calado y corazones. Pieza elegante para mesa o pared.',
+    desc: 'Decorativo circular en plástico holográfico con texto calado y corazones. Disponible en negro, rojo, rosado, blanco y violeta. Pieza elegante para mesa o arreglo floral.',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_3a_b.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_3b_b.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_3a_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_3b_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_3a_v.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_3b_v.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_3c_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_3d_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3a_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3a_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3c_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3d_r.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 9,
+    type: 'dia-mujer',
+    name: 'Topper "Día de la Mujer" Cruz',
+    desc: 'Topper con letras cursivas caladas en plástico holográfico brillante. Disponible en negro, rojo, rosado, blanco y violeta. Elegante y llamativo para tortas y arreglos.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_2/mujer_2a_w.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_2/mujer_2b_w.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 10,
+    type: 'dia-mujer',
+    name: 'Topper "Feliz Día de la Mujer" floral',
+    desc: 'Topper en plástico holográfico con diseño de mariposa y texto calado. Disponible en negro, rojo, rosado, blanco y violeta. Perfecto para celebrar a la mujer especial.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_5/mujer_5a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_5/mujer_5b_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_5/mujer_5a_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_5/mujer_5b_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_5/mujer_5a_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_5/mujer_5b_b.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 11,
+    type: 'dia-mujer',
+    name: 'Topper "Super Mujer" Corona',
+    desc: 'Topper en plástico holográfico con silueta femenina y texto calado. Disponible en negro, rojo, rosado, blanco y violeta. Un homenaje poderoso a la mujer.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_7/mujer_7a_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_7/mujer_7b_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_7/mujer_7a_w.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_7/mujer_7b_w.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 12,
+    type: 'dia-mujer',
+    name: 'Topper "Día de la Mujer" Broche',
+    desc: 'Topper de diseño moderno en plástico holográfico con letras caladas. Disponible en negro, rojo, rosado, blanco y violeta. Ideal para tortas y mesas de celebración.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_8/mujer_8a_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_8/mujer_8b_r.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 13,
+    type: 'dia-mujer',
+    name: 'Topper "Día de la Mujer" Arco',
+    desc: 'Topper en plástico holográfico con motivos florales y letras caladas. Disponible en negro, rojo, rosado, blanco y violeta. Delicado y elegante para cualquier celebración.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_9/mujer_9a_w.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_9/mujer_9b_w.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_14/mujer_9a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_14/mujer_9b_v.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 14,
+    type: 'dia-mujer',
+    name: 'Topper "Día de la Mujer" Girl Power',
+    desc: 'Topper de gran impacto visual en plástico holográfico con letras grandes caladas. Disponible en negro, rojo, rosado, blanco y violeta. Para celebrar con todo el estilo.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11b_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11a_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11b_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11a_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11b_b.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 15,
+    type: 'dia-mujer',
+    name: 'Topper "Día de la Mujer" Corazón',
+    desc: 'Topper en plástico holográfico con corazón y texto calado. Disponible en negro, rojo, rosado, blanco y violeta. Lleno de amor para la mujer más especial.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_12/mujer_12a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_12/mujer_12b_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_12/mujer_12a_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_12/mujer_12b_b.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 16,
+    type: 'dia-mujer',
+    name: 'Topper "Día de la Mujer" conmemorativo',
+    desc: 'Topper en plástico holográfico con estrellas y letras caladas. Disponible en negro, rojo, rosado, blanco y violeta. Brillo y elegancia para una celebración especial.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_13/mujer_13a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_13/mujer_13b_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_13/mujer_13a_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_13/mujer_13b_b.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 17,
+    type: 'dia-mujer',
+    name: 'Topper "Día de la Mujer" Moderno',
+    desc: 'Topper de diseño contemporáneo en plástico holográfico con tipografía moderna. Disponible en negro, rojo, rosado, blanco y violeta. Estilo actual para una mujer única.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_14/mujer_14a_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_14/mujer_14b_r.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_14/mujer_14a_b.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_14/mujer_14b_b.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 18,
+    type: 'dia-mujer',
+    name: 'Topper "Día de la Mujer" Especial',
+    desc: 'Topper exclusivo en plástico holográfico con diseño calado de alta calidad. Disponible en negro, rojo, rosado, blanco y violeta. La pieza perfecta para una celebración inolvidable.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_15/mujer_15a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_15/mujer_15b_v.webp',
+    ],
+    badge: null
+  },
+  {
+    id: 19,
+    type: 'dia-mujer',
+    name: 'Topper "Día de la Mujer" Corona',
+    desc: 'Topper premium en plástico holográfico brillante con letras caladas. Disponible en negro, rojo, rosado, blanco y violeta. Para que cada celebración sea verdaderamente especial.',
+    images: [
+      '../dist/imagenes/toppers/dia-mujer/mujer_16/mujer_16a_v.webp',
+      '../dist/imagenes/toppers/dia-mujer/mujer_16/mujer_16b_v.webp',
     ],
     badge: null
   }
-  /* ── Agrega aquí más toppers con su tipo correspondiente ── */
 ];
 
 /* ======= WA ICON ======= */
