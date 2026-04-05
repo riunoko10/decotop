@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p d:/DECOTOP/pagina/dist/imagenes/toppers/feliz-dia)",
+      "Bash(mkdir -p d:/DECOTOP/pagina/dist/imagenes/toppers/dia-mujer)",
+      "Bash(mkdir -p d:/DECOTOP/pagina/dist/imagenes/decorativos/love)",
+      "Bash(mkdir -p d:/DECOTOP/pagina/dist/imagenes/decorativos/dia-mujer)",
+      "Bash(mkdir -p d:/DECOTOP/pagina/dist/imagenes/arreglos/dia-mujer)"
+    ]
+  }
+}
