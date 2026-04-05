@@ -8,7 +8,8 @@
       "Bash(cp d:/DECOTOP/pagina/dist/imagenes/love_3/* d:/DECOTOP/pagina/dist/imagenes/decorativos/love/)",
       "Bash(cp d:/DECOTOP/pagina/dist/imagenes/decorativos/love/* d:/DECOTOP/pagina/dist/imagenes/toppers/love/)",
       "Bash(cp d:/DECOTOP/pagina/dist/imagenes/decorativos/dia-mujer/* d:/DECOTOP/pagina/dist/imagenes/toppers/dia-mujer/)",
-      "Bash(cp d:/DECOTOP/pagina/dist/imagenes/arreglos/dia-mujer/* d:/DECOTOP/pagina/dist/imagenes/toppers/dia-mujer/)"
+      "Bash(cp d:/DECOTOP/pagina/dist/imagenes/arreglos/dia-mujer/* d:/DECOTOP/pagina/dist/imagenes/toppers/dia-mujer/)",
+      "WebSearch"
     ]
   }
 }
