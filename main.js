@@ -245,9 +245,20 @@ document.querySelectorAll('.filter-btn').forEach(btn => {
   btn.addEventListener('click', () => {
     document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    renderProducts(btn.dataset.filter);
+    const filter = btn.dataset.filter;
+    const topperSection = document.getElementById('topper-cat-section');
+    const productGrid   = document.getElementById('product-grid');
+    if (filter === 'topper') {
+      productGrid.style.display   = 'none';
+      topperSection.style.display = 'block';
+    } else {
+      topperSection.style.display = 'none';
+      productGrid.style.display   = '';
+      renderProducts(filter);
+    }
   });
 });
 
 /* ======= INIT ======= */
-renderProducts();
+document.getElementById('product-grid').style.display   = 'none';
+document.getElementById('topper-cat-section').style.display = 'block';
