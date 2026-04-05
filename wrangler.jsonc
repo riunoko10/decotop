@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "decotop",
+  "compatibility_date": "2026-04-05",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": ".",
+    "exclude": [".git/**", "node_modules/**"]
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
