@@ -14,11 +14,9 @@ const products = [
     name: 'Caja Corazón LED',
     desc: 'Caja corazón con tapa personalizada, con luces LED. El regalo más especial para alguien especial.',
     images: [
-      'dist/imagenes/cajas/corazon/caja_corazon_a_p.webp',
       'dist/imagenes/cajas/corazon/caja_corazon_b_p.webp',
       'dist/imagenes/cajas/corazon/caja_corazon_a_r.webp',
       'dist/imagenes/cajas/corazon/caja_corazon_b_r.webp',
-      'dist/imagenes/cajas/corazon/caja_corazon_colores.webp',
     ],
     badge: 'Destacado'
   },
@@ -52,9 +50,7 @@ const products = [
     name: 'Topper "Feliz Día"',
     desc: 'Disponible en negro holográfico, rojo glitter y más colores. Letras caladas de gran impacto para torta o arreglo floral.',
     images: [
-      'dist/imagenes/toppers/feliz-dia/dia_1/dia_1a_v.webp',
       'dist/imagenes/toppers/feliz-dia/dia_1/dia_1b_v.webp',
-      'dist/imagenes/toppers/feliz-dia/dia_1/dia_1a_b.webp',
       'dist/imagenes/toppers/feliz-dia/dia_1/dia_1b_b.webp',
     ],
     badge: null
@@ -65,14 +61,9 @@ const products = [
     name: 'Decorativo "Feliz Día de la Mujer"',
     desc: 'Decorativo en acrílico rojo con diseño script y corazón. Ideal para arreglos florales del Día de la Mujer.',
     images: [
-      'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1a_b.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_b.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1a_r.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_r.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1a_v.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_v.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1c_r.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1d_r.webp',
     ],
     badge: null
   },
@@ -82,14 +73,9 @@ const products = [
     name: 'Decorativo Redondo "La mejor mujer del mundo"',
     desc: 'Decorativo circular holográfico negro con texto calado y corazones. Pieza elegante para mesa o pared.',
     images: [
-      'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3a_b.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_b.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3a_r.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_r.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3a_v.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_v.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3c_r.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3d_r.webp',
     ],
     badge: null
   },
@@ -99,9 +85,7 @@ const products = [
     name: 'Topper "Super Mujer"',
     desc: 'Topper en acrílico morado holográfico con escudo y texto. Ideal para celebrar a la mujer especial de tu vida.',
     images: [
-      'dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10a_v.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_v.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10a_b.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_b.webp',
     ],
     badge: null
@@ -112,11 +96,8 @@ const products = [
     name: 'Topper Rectangular "Feliz Día de la Mujer"',
     desc: 'Topper rectangular con flores decorativas y texto calado en morado holográfico. Acabado premium brillante.',
     images: [
-      'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4a_r.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_r.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4a_b.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_b.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4a_v.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_v.webp',
     ],
     badge: null
