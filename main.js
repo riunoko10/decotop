@@ -101,6 +101,59 @@ const products = [
       'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_v.webp',
     ],
     badge: null
+  },
+  {
+    id: 9,
+    category: 'topper',
+    name: 'Topper "Feliz Cumpleaños" 1',
+    desc: 'Topper en acrílico con texto script calado. Perfecto para tortas y mesas de cumpleaños.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      'dist/imagenes/toppers/cumple/cumple_1/cumple_1a_v.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 10,
+    category: 'topper',
+    name: 'Topper "Feliz Cumpleaños" 2',
+    desc: 'Topper elegante con letras caladas de gran impacto. Diseño versátil ideal para cualquier celebración.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      'dist/imagenes/toppers/cumple/cumple_2/cumple_2a_b.webp',
+      'dist/imagenes/toppers/cumple/cumple_2/cumple_2a_w.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 11,
+    category: 'topper',
+    name: 'Topper "Feliz Cumpleaños" 3',
+    desc: 'Topper con letras caladas de gran impacto. Elegante y sofisticado para cualquier torta.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      'dist/imagenes/toppers/cumple/cumple_3/cumple_3a_b.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 12,
+    category: 'topper',
+    name: 'Topper "Feliz Cumpleaños" 4',
+    desc: 'Topper premium con letras caladas y acabado brillante de lujo. Ideal para tortas y arreglos florales.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      'dist/imagenes/toppers/cumple/cumple_4/cumple_4a_r.webp',
+      'dist/imagenes/toppers/cumple/cumple_4/cumple_4a_b.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 13,
+    category: 'topper',
+    name: 'Topper "Feliz Cumpleaños" 5',
+    desc: 'Topper con diseño tierno y festivo. Perfecto para celebraciones con temática colorida.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      'dist/imagenes/toppers/cumple/cumple_5/cumple_5a_p.webp',
+      'dist/imagenes/toppers/cumple/cumple_5/cumple_5a_b.webp',
+    ],
+    badge: 'Nuevo'
   }
 ];
 

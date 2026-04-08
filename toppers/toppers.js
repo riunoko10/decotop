@@ -212,6 +212,59 @@ const topperProducts = [
       '../dist/imagenes/toppers/dia-mujer/mujer_16/mujer_16b_v.webp',
     ],
     badge: null
+  },
+  {
+    id: 20,
+    type: 'feliz-cumpleanos',
+    name: 'Topper "Feliz Cumpleaños" 1',
+    desc: 'Topper en acrílico con texto script calado. Perfecto para tortas y mesas de cumpleaños.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      '../dist/imagenes/toppers/cumple/cumple_1/cumple_1a_v.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 21,
+    type: 'feliz-cumpleanos',
+    name: 'Topper "Feliz Cumpleaños" 2',
+    desc: 'Topper elegante con letras caladas de gran impacto. Diseño versátil ideal para cualquier celebración.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      '../dist/imagenes/toppers/cumple/cumple_2/cumple_2a_b.webp',
+      '../dist/imagenes/toppers/cumple/cumple_2/cumple_2a_w.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 22,
+    type: 'feliz-cumpleanos',
+    name: 'Topper "Feliz Cumpleaños" 3',
+    desc: 'Topper con letras caladas de gran impacto. Elegante y sofisticado para cualquier torta.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      '../dist/imagenes/toppers/cumple/cumple_3/cumple_3a_b.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 23,
+    type: 'feliz-cumpleanos',
+    name: 'Topper "Feliz Cumpleaños" 4',
+    desc: 'Topper premium con letras caladas y acabado brillante de lujo. Ideal para tortas y arreglos florales.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      '../dist/imagenes/toppers/cumple/cumple_4/cumple_4a_r.webp',
+      '../dist/imagenes/toppers/cumple/cumple_4/cumple_4a_b.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 24,
+    type: 'feliz-cumpleanos',
+    name: 'Topper "Feliz Cumpleaños" 5',
+    desc: 'Topper con diseño tierno y festivo. Perfecto para celebraciones con temática colorida.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
+    images: [
+      '../dist/imagenes/toppers/cumple/cumple_5/cumple_5a_p.webp',
+      '../dist/imagenes/toppers/cumple/cumple_5/cumple_5a_b.webp',
+    ],
+    badge: 'Nuevo'
   }
 ];
 
