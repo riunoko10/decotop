@@ -15,11 +15,11 @@ const products = [
     id: 1,
     category: 'caja',
     name: 'Caja Corazón LED',
-    desc: 'Caja corazón con tapa personalizada, con luces LED. El regalo más especial para alguien especial.',
+    desc: 'Caja corazón con tapa personalizada, con luces LED. El regalo más especial para alguien especial.\nDimensiones:\n• Alto: 15 cm\n• Ancho: 14.5 cm\n• Profundidad: 8 cm',
     images: [
-      'dist/imagenes/cajas/corazon/caja_corazon_b_p.webp',
-      'dist/imagenes/cajas/corazon/caja_corazon_a_r.webp',
-      'dist/imagenes/cajas/corazon/caja_corazon_b_r.webp',
+      'dist/imagenes/cajas/corazon_led/caja_corazon_b_p.webp',
+      'dist/imagenes/cajas/corazon_led/caja_corazon_a_r.webp',
+      'dist/imagenes/cajas/corazon_led/caja_corazon_b_r.webp',
     ],
     badge: 'Destacado'
   },
@@ -162,10 +162,42 @@ const products = [
     id: 14,
     category: 'caja',
     name: 'Caja Corona',
-    desc: 'Caja decorativa con forma de corona, perfecta para regalar detalles especiales con un toque de elegancia y distinción.',
+    desc: 'Caja decorativa con forma de corona, perfecta para regalar detalles especiales con un toque de elegancia y distinción.\nDimensiones:\n• Diámetro base: 17 cm\n• Altura: 15 cm',
     images: [
       'dist/imagenes/cajas/corona/portada_corona.webp',
       'dist/imagenes/cajas/corona/corona.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 15,
+    category: 'caja',
+    name: 'Caja Corazón sin LED',
+    desc: 'Caja corazón con tapa personalizada, sin luces LED. Elegante y especial para sorprender a quien más quieres.\nDimensiones:\n• Alto: 15 cm\n• Ancho: 14.5 cm\n• Profundidad: 8 cm',
+    images: [
+      'dist/imagenes/cajas/corazon_sin_led/caja_corazon_a.webp',
+      'dist/imagenes/cajas/corazon_sin_led/caja_corazon_b.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 16,
+    category: 'caja',
+    name: 'Caja Letras',
+    desc: 'Caja decorativa con letras personalizadas. Ideal para regalar con estilo y dejar un mensaje especial.\nDimensiones:\n• Alto: 21 cm\n• Ancho: 17 cm\n• Profundidad: 7 cm',
+    images: [
+      'dist/imagenes/cajas/letras/caja_letras.webp',
+    ],
+    badge: 'Nuevo'
+  },
+  {
+    id: 17,
+    category: 'caja',
+    name: 'Caja Mickey',
+    desc: 'Caja decorativa con diseño de Mickey Mouse, perfecta para celebraciones infantiles y regalos temáticos.\nDimensiones:\n• Alto: 16 cm\n• Ancho: 14 cm\n• Profundidad: 7 cm',
+    images: [
+      'dist/imagenes/cajas/mickey/caja_mickey_a.webp',
+      'dist/imagenes/cajas/mickey/caja_mickey_b.webp',
     ],
     badge: 'Nuevo'
   }
