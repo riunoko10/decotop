@@ -397,6 +397,6 @@ document.querySelectorAll('.filter-btn').forEach(btn => {
 });
 
 /* ======= INIT ======= */
-document.getElementById('product-grid').style.display        = 'none';
-document.getElementById('pagination').style.display          = 'none';
-document.getElementById('topper-cat-section').style.display  = 'block';
+currentFilter = 'caja';
+document.getElementById('topper-cat-section').style.display = 'none';
+renderProducts('caja', 1);
