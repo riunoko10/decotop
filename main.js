@@ -218,7 +218,9 @@ const waSvg = `<svg width="13" height="13" viewBox="0 0 24 24" fill="white" styl
 /* ======= RENDER ======= */
 function renderProducts(filter = 'all', page = 1) {
   const grid = document.getElementById('product-grid');
-  const list = filter === 'all' ? products : products.filter(p => p.category === filter);
+  const list = filter === 'all'
+    ? [...products].sort((a, b) => (a.category === 'caja' ? -1 : 1) - (b.category === 'caja' ? -1 : 1))
+    : products.filter(p => p.category === filter);
 
   if (list.length === 0) {
     grid.innerHTML = `<div class="empty-state"><p>No hay productos en esta categoría aún.</p></div>`;
