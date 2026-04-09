@@ -692,6 +692,41 @@ footer a { color: var(--rosa); text-decoration: none; }
   line-height: 1.7;
 }
 
+/* ======= PAGINATION ======= */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 40px;
+  flex-wrap: wrap;
+}
+.page-btn {
+  padding: 8px 16px;
+  border: 1.5px solid var(--rosa-suave);
+  border-radius: 50px;
+  background: white;
+  color: var(--grafito);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.page-btn:hover:not(:disabled) {
+  background: var(--rosa-suave);
+  border-color: var(--rosa);
+}
+.page-btn.active {
+  background: var(--rosa);
+  border-color: var(--rosa);
+  color: white;
+}
+.page-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
 /* ======= RESPONSIVE ======= */
 @media (max-width: 680px) {
   nav { display: none; }
