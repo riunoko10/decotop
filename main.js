@@ -184,8 +184,8 @@ const products = [
   {
     id: 16,
     category: 'caja',
-    name: 'Caja Letras',
-    desc: 'Caja decorativa con letras personalizadas. Ideal para regalar con estilo y dejar un mensaje especial.\nDimensiones:\n• Alto: 21 cm\n• Ancho: 17 cm\n• Profundidad: 7 cm',
+    name: 'Cajas "Happy Birthday" HBD',
+    desc: 'Caja decorativa "Happy Birthday" (HBD). Ideal para regalar con estilo y desear un feliz cumpleaños de forma muy especial.\nDimensiones:\n• Alto: 21 cm\n• Ancho: 17 cm\n• Profundidad: 7 cm (promedio de cada letra)',
     images: [
       'dist/imagenes/cajas/letras/caja_letras_portada.webp',
       'dist/imagenes/cajas/letras/caja_letras.webp',
@@ -195,8 +195,8 @@ const products = [
   {
     id: 17,
     category: 'caja',
-    name: 'Caja Mickey',
-    desc: 'Caja decorativa con diseño de Mickey Mouse, perfecta para celebraciones infantiles y regalos temáticos.\nDimensiones:\n• Alto: 16 cm\n• Ancho: 14 cm\n• Profundidad: 7 cm',
+    name: 'Caja Mickey Personalizada',
+    desc: 'Caja decorativa con diseño de Mickey Mouse, perfecta para celebraciones infantiles y regalos temáticos. Personalizada con el nombre del cumpleañero.\nDimensiones:\n• Alto: 16 cm\n• Ancho: 14 cm\n• Profundidad: 7 cm',
     images: [
       'dist/imagenes/cajas/mickey/caja_mickey_a.webp',
       'dist/imagenes/cajas/mickey/caja_mickey_b.webp',
