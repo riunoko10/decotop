@@ -388,6 +388,12 @@ nav a:hover { color: var(--rosa); }
   flex: 1;
   margin-bottom: 18px;
 }
+.product-material {
+  font-size: 11px;
+  color: #999;
+  margin-top: -12px;
+  margin-bottom: 14px;
+}
 .product-footer {
   display: flex;
   align-items: center;

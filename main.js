@@ -21,7 +21,8 @@ const products = [
       'dist/imagenes/cajas/corazon_led/caja_corazon_a_r.webp',
       'dist/imagenes/cajas/corazon_led/caja_corazon_b_c.webp',
     ],
-    badge: 'Destacado'
+    badge: 'Destacado',
+    material: 'Plástico PLA'
   },
   {
     id: 2,
@@ -33,7 +34,8 @@ const products = [
       'dist/imagenes/toppers/love/love_1/love_1_r.webp',
       'dist/imagenes/toppers/love/love_1/love_1_w.webp',
     ],
-    badge: null
+    badge: null,
+    material: 'Plástico PLA'
   },
   {
     id: 3,
@@ -45,7 +47,8 @@ const products = [
       'dist/imagenes/toppers/love/love_3/love_3_b.webp',
       'dist/imagenes/toppers/love/love_3/love_3_r.webp',
     ],
-    badge: null
+    badge: null,
+    material: 'Plástico PLA'
   },
   {
     id: 4,
@@ -56,7 +59,8 @@ const products = [
       'dist/imagenes/toppers/feliz-dia/dia_1/dia_1b_v.webp',
       'dist/imagenes/toppers/feliz-dia/dia_1/dia_1b_b.webp',
     ],
-    badge: null
+    badge: null,
+    material: 'Plástico PLA'
   },
   {
     id: 5,
@@ -68,7 +72,8 @@ const products = [
       'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_r.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_v.webp',
     ],
-    badge: null
+    badge: null,
+    material: 'Plástico PLA'
   },
   {
     id: 6,
@@ -80,7 +85,8 @@ const products = [
       'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_r.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_v.webp',
     ],
-    badge: null
+    badge: null,
+    material: 'Plástico PLA'
   },
   {
     id: 7,
@@ -91,7 +97,8 @@ const products = [
       'dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_v.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_b.webp',
     ],
-    badge: null
+    badge: null,
+    material: 'Plástico PLA'
   },
   {
     id: 8,
@@ -103,7 +110,8 @@ const products = [
       'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_b.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_v.webp',
     ],
-    badge: null
+    badge: null,
+    material: 'Plástico PLA'
   },
   {
     id: 9,
@@ -113,7 +121,8 @@ const products = [
     images: [
       'dist/imagenes/toppers/cumple/cumple_1/cumple_1a_v.webp',
     ],
-    badge: 'Nuevo'
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   },
   {
     id: 10,
@@ -124,7 +133,8 @@ const products = [
       'dist/imagenes/toppers/cumple/cumple_2/cumple_2a_b.webp',
       'dist/imagenes/toppers/cumple/cumple_2/cumple_2a_w.webp',
     ],
-    badge: 'Nuevo'
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   },
   {
     id: 11,
@@ -134,7 +144,8 @@ const products = [
     images: [
       'dist/imagenes/toppers/cumple/cumple_3/cumple_3a_b.webp',
     ],
-    badge: 'Nuevo'
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   },
   {
     id: 12,
@@ -145,7 +156,8 @@ const products = [
       'dist/imagenes/toppers/cumple/cumple_4/cumple_4a_r.webp',
       'dist/imagenes/toppers/cumple/cumple_4/cumple_4a_b.webp',
     ],
-    badge: 'Nuevo'
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   },
   {
     id: 13,
@@ -156,7 +168,8 @@ const products = [
       'dist/imagenes/toppers/cumple/cumple_5/cumple_5a_p.webp',
       'dist/imagenes/toppers/cumple/cumple_5/cumple_5a_b.webp',
     ],
-    badge: 'Nuevo'
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   },
   {
     id: 14,
@@ -168,7 +181,8 @@ const products = [
       'dist/imagenes/cajas/corona/corona.webp',
       'dist/imagenes/cajas/corona/corona_b.webp',
     ],
-    badge: 'Nuevo'
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   },
   {
     id: 15,
@@ -179,18 +193,20 @@ const products = [
       'dist/imagenes/cajas/corazon_sin_led/caja_corazon_a.webp',
       'dist/imagenes/cajas/corazon_sin_led/caja_corazon_b.webp',
     ],
-    badge: 'Nuevo'
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   },
   {
     id: 16,
     category: 'caja',
     name: 'Cajas "Happy Birthday" HBD',
-    desc: 'Caja decorativa "Happy Birthday" (HBD). Ideal para regalar con estilo y desear un feliz cumpleaños de forma muy especial.\nDimensiones:\n• Alto: 21 cm\n• Ancho: 17 cm\n• Profundidad: 7 cm (promedio de cada letra)',
+    desc: 'Caja decorativa "Happy Birthday" (HBD). Ideal para regalar con estilo y desear un feliz cumpleaños de forma muy especial.\nDimensiones (promedio de cada letra):\n• Alto: 21 cm\n• Ancho: 17 cm\n• Profundidad: 7 cm',
     images: [
       'dist/imagenes/cajas/letras/caja_letras_portada.webp',
       'dist/imagenes/cajas/letras/caja_letras.webp',
     ],
-    badge: 'Nuevo'
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   },
   {
     id: 17,
@@ -201,8 +217,23 @@ const products = [
       'dist/imagenes/cajas/mickey/caja_mickey_a.webp',
       'dist/imagenes/cajas/mickey/caja_mickey_b.webp',
     ],
-    badge: 'Nuevo'
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 18,
+    category: 'caja',
+    name: 'Caja I Love Mom',
+    desc: 'Caja decorativa "I Love Mom", ideal para sorprender y demostrar amor en el Día de la Madre o en cualquier ocasión especial.\nDimensiones (promedio de cada letra):\n• Alto: 16 cm\n• Ancho: 14 cm\n• Profundidad: 7 cm',
+    images: [
+      'dist/imagenes/cajas/i_love_mom/portada_i_love_mom.webp',
+      'dist/imagenes/cajas/i_love_mom/i_love_mom.webp',
+    ],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   }
+
+
 ];
 
 /* ======= LABELS ======= */
@@ -258,6 +289,7 @@ function renderProducts(filter = 'all', page = 1) {
           <p class="product-cat">${catLabel[p.category] || p.category}</p>
           <h3 class="product-name">${p.name}</h3>
           <p class="product-desc">${p.desc}</p>
+          ${p.material ? `<p class="product-material">Material: ${p.material}</p>` : ''}
           <div class="product-footer">
             <div class="qty-wrap">
               <small>Cantidad</small>
