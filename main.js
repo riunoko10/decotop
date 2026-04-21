@@ -231,9 +231,115 @@ const products = [
     ],
     badge: 'Nuevo',
     material: 'Plástico PLA'
+  },
+  {
+    id: 19,
+    category: 'topper',
+    name: 'Madres 01 rectangular',
+    desc: 'Topper rectangular en acrílico rosa holográfico con texto calado "Feliz Día de la Madre" y corazones decorativos. Ideal para tortas y arreglos florales del Día de la Madre.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_001_p.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 20,
+    category: 'topper',
+    name: 'Madres 02 rectangular',
+    desc: 'Topper rectangular con esquinas redondeadas en acrílico rosa holográfico. Texto calado "Gracias Mamá por tu infinito amor". Un regalo lleno de ternura y elegancia.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_002_p.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 21,
+    category: 'topper',
+    name: 'Madres 03 circular',
+    desc: 'Topper circular en acrílico morado holográfico con texto calado "Para la mejor mamá del mundo" y corazón central. Diseño redondo de gran impacto visual.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_003_m.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 22,
+    category: 'topper',
+    name: 'Madres 04 corazón',
+    desc: 'Topper en forma de corazón en acrílico rojo holográfico con texto script calado "Feliz día Mamá". Diseño romántico y elegante para sorprender a mamá.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_004_r.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 23,
+    category: 'topper',
+    name: 'Madres 05 doble corazón',
+    desc: 'Topper doble corazón en acrílico negro holográfico con texto calado "Feliz día Mamá". Acabado iridiscente con destellos de colores, sofisticado y llamativo.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_005_b.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 24,
+    category: 'topper',
+    name: 'Madres 06 rectangular',
+    desc: 'Topper rectangular en acrílico morado holográfico con texto script calado "Feliz día Mamá" y corazones. Diseño moderno y delicado para el Día de la Madre.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_006_m.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 25,
+    category: 'topper',
+    name: 'Madres 07 corazón',
+    desc: 'Topper en forma de corazón en acrílico rojo holográfico con letras graffiti caladas "Feliz día Mamá". Diseño juvenil y divertido con gran presencia.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_007_r.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 26,
+    category: 'topper',
+    name: 'Madres 08 corazón',
+    desc: 'Topper corazón grande en acrílico negro holográfico con texto script calado "Mamá". Acabado iridiscente con corazones y detalles decorativos. Pieza elegante y especial.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_008_b.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 27,
+    category: 'topper',
+    name: 'Madres 09 flor',
+    desc: 'Topper en forma de flor en acrílico negro holográfico con texto calado "Feliz Día Mamá". Silueta original con acabado iridiscente multicolor de lujo.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_009_b.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 28,
+    category: 'topper',
+    name: 'Madres 10 circular',
+    desc: 'Topper circular en acrílico rosa holográfico con diseño tipo sello y texto calado "La mejor Mamá del mundo". Elegante y delicado para tortas y arreglos.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_010_p.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 29,
+    category: 'topper',
+    name: 'Madres 11 corazón',
+    desc: 'Topper corazón en acrílico morado holográfico con texto script calado "Mamá" y estrellas decorativas. Diseño brillante y romántico para el Día de la Madre.\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_011_m.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
+  },
+  {
+    id: 30,
+    category: 'topper',
+    name: 'Madres 12 escudo',
+    desc: 'Topper con escudo de Supermamá en acrílico rojo holográfico y texto calado "Mamá Feliz Día". Para la madre que lo es todo: ¡una verdadera superhéroe!\nColores disponibles:\n• Negro\n• Rojo\n• Blanco\n• Rosa\n• Violeta',
+    images: ['dist/imagenes/toppers/dia-madre/madre_012_r.webp'],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   }
-
-
 ];
 
 /* ======= LABELS ======= */
