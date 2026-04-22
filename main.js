@@ -68,8 +68,6 @@ const products = [
     name: 'Decorativo "Feliz Día de la Mujer"',
     desc: 'Decorativo en acrílico rojo con diseño script y corazón. Ideal para arreglos florales del Día de la Mujer.',
     images: [
-      'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_b.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_r.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_v.webp',
     ],
     badge: null,
@@ -81,9 +79,7 @@ const products = [
     name: 'Decorativo Redondo "La mejor mujer del mundo"',
     desc: 'Decorativo circular holográfico negro con texto calado y corazones. Pieza elegante para mesa o pared.',
     images: [
-      'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_b.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_r.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_v.webp',
     ],
     badge: null,
     material: 'Plástico PLA'
@@ -94,7 +90,6 @@ const products = [
     name: 'Topper "Super Mujer"',
     desc: 'Topper en acrílico morado holográfico con escudo y texto. Ideal para celebrar a la mujer especial de tu vida.',
     images: [
-      'dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_v.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_b.webp',
     ],
     badge: null,
@@ -106,8 +101,6 @@ const products = [
     name: 'Topper Rectangular "Feliz Día de la Mujer"',
     desc: 'Topper rectangular con flores decorativas y texto calado en morado holográfico. Acabado premium brillante.',
     images: [
-      'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_r.webp',
-      'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_b.webp',
       'dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_v.webp',
     ],
     badge: null,
@@ -131,7 +124,6 @@ const products = [
     desc: 'Topper elegante con letras caladas de gran impacto. Diseño versátil ideal para cualquier celebración.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
       'dist/imagenes/toppers/cumple/cumple_2/cumple_2a_b.webp',
-      'dist/imagenes/toppers/cumple/cumple_2/cumple_2a_w.webp',
     ],
     badge: 'Nuevo',
     material: 'Plástico PLA'
@@ -154,7 +146,6 @@ const products = [
     desc: 'Topper premium con letras caladas y acabado brillante de lujo. Ideal para tortas y arreglos florales.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
       'dist/imagenes/toppers/cumple/cumple_4/cumple_4a_r.webp',
-      'dist/imagenes/toppers/cumple/cumple_4/cumple_4a_b.webp',
     ],
     badge: 'Nuevo',
     material: 'Plástico PLA'
@@ -166,7 +157,6 @@ const products = [
     desc: 'Topper con diseño tierno y festivo. Perfecto para celebraciones con temática colorida.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
       'dist/imagenes/toppers/cumple/cumple_5/cumple_5a_p.webp',
-      'dist/imagenes/toppers/cumple/cumple_5/cumple_5a_b.webp',
     ],
     badge: 'Nuevo',
     material: 'Plástico PLA'

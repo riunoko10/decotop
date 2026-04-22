@@ -50,7 +50,6 @@ const topperProducts = [
     name: 'Topper "Super Mujer"',
     desc: 'Topper en plástico holográfico con escudo y texto calado. Ideal para celebrar a la mujer especial de tu vida.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_v.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_10/mujer_10b_b.webp',
     ],
     badge: null
@@ -61,8 +60,6 @@ const topperProducts = [
     name: 'Topper Rectangular "Feliz Día de la Mujer"',
     desc: 'Topper rectangular en plástico holográfico con flores decorativas y texto calado. Acabado brillante de alta calidad.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_b.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_4/mujer_4b_v.webp',
     ],
     badge: null
@@ -73,8 +70,6 @@ const topperProducts = [
     name: 'Decorativo "Feliz Día de la Mujer"',
     desc: 'Decorativo en plástico holográfico con diseño script y corazón. Ideal para arreglos florales del Día de la Mujer.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_b.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_r.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_1/mujer_1b_v.webp',
     ],
     badge: null
@@ -85,9 +80,7 @@ const topperProducts = [
     name: 'Decorativo Redondo "La mejor mujer del mundo"',
     desc: 'Decorativo circular en plástico holográfico con texto calado y corazones. Pieza elegante para mesa o arreglo floral.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_b.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_3/mujer_3b_v.webp',
     ],
     badge: null
   },
@@ -97,7 +90,6 @@ const topperProducts = [
     name: 'Topper "Día de la Mujer" Cruz',
     desc: 'Topper con letras cursivas caladas en plástico holográfico brillante. Elegante y llamativo para tortas y arreglos.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_2/mujer_2a_w.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_2/mujer_2b_w.webp',
     ],
     badge: null
@@ -108,8 +100,6 @@ const topperProducts = [
     name: 'Topper "Feliz Día de la Mujer" floral',
     desc: 'Topper en plástico holográfico con diseño de mariposa y texto calado. Perfecto para celebrar a la mujer especial.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_5/mujer_5b_v.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_5/mujer_5b_r.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_5/mujer_5b_b.webp',
     ],
     badge: null
@@ -121,7 +111,6 @@ const topperProducts = [
     desc: 'Topper en plástico holográfico con silueta femenina y texto calado. Un homenaje poderoso a la mujer.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
       '../dist/imagenes/toppers/dia-mujer/mujer_7/mujer_7b_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_7/mujer_7b_w.webp',
     ],
     badge: null
   },
@@ -131,7 +120,6 @@ const topperProducts = [
     name: 'Topper "Día de la Mujer" Broche',
     desc: 'Topper de diseño moderno en plástico holográfico con letras caladas. Ideal para tortas y mesas de celebración.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_8/mujer_8a_r.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_8/mujer_8b_r.webp',
     ],
     badge: null
@@ -142,7 +130,6 @@ const topperProducts = [
     name: 'Topper "Día de la Mujer" Arco',
     desc: 'Topper en plástico holográfico con motivos florales y letras caladas. Delicado y elegante para cualquier celebración.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_9/mujer_9a_w.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_9/mujer_9b_w.webp',
     ],
     badge: null
@@ -153,8 +140,6 @@ const topperProducts = [
     name: 'Topper "Día de la Mujer" Girl Power',
     desc: 'Topper de gran impacto visual en plástico holográfico con letras grandes caladas. Para celebrar con todo el estilo.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11a_v.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11b_r.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_11/mujer_11b_b.webp',
     ],
     badge: null
@@ -165,7 +150,6 @@ const topperProducts = [
     name: 'Topper "Día de la Mujer" Corazón',
     desc: 'Topper en plástico holográfico con corazón y texto calado. Lleno de amor para la mujer más especial.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_12/mujer_12b_v.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_12/mujer_12b_b.webp',
     ],
     badge: null
@@ -176,7 +160,6 @@ const topperProducts = [
     name: 'Topper "Día de la Mujer" conmemorativo',
     desc: 'Topper en plástico holográfico con estrellas y letras caladas. Brillo y elegancia para una celebración especial.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_13/mujer_13b_v.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_13/mujer_13b_b.webp',
     ],
     badge: null
@@ -188,8 +171,6 @@ const topperProducts = [
     desc: 'Topper de diseño contemporáneo en plástico holográfico con tipografía moderna. Estilo actual para una mujer única.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
       '../dist/imagenes/toppers/dia-mujer/mujer_14/mujer_14b_r.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_14/mujer_14b_b.webp',
-      '../dist/imagenes/toppers/dia-mujer/mujer_14/mujer_14b_v.webp',
     ],
     badge: null
   },
@@ -199,7 +180,6 @@ const topperProducts = [
     name: 'Topper "Día de la Mujer" Especial',
     desc: 'Topper exclusivo en plástico holográfico con diseño calado de alta calidad. La pieza perfecta para una celebración inolvidable.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_15/mujer_15a_v.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_15/mujer_15b_v.webp',
     ],
     badge: null
@@ -210,7 +190,6 @@ const topperProducts = [
     name: 'Topper "Día de la Mujer" Corona',
     desc: 'Topper premium en plástico holográfico brillante con letras caladas. Para que cada celebración sea verdaderamente especial.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
-      '../dist/imagenes/toppers/dia-mujer/mujer_16/mujer_16a_v.webp',
       '../dist/imagenes/toppers/dia-mujer/mujer_16/mujer_16b_v.webp',
     ],
     badge: null
@@ -232,7 +211,6 @@ const topperProducts = [
     desc: 'Topper elegante con letras caladas de gran impacto. Diseño versátil ideal para cualquier celebración.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
       '../dist/imagenes/toppers/cumple/cumple_2/cumple_2a_b.webp',
-      '../dist/imagenes/toppers/cumple/cumple_2/cumple_2a_w.webp',
     ],
     badge: 'Nuevo'
   },
@@ -253,7 +231,6 @@ const topperProducts = [
     desc: 'Topper premium con letras caladas y acabado brillante de lujo. Ideal para tortas y arreglos florales.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
       '../dist/imagenes/toppers/cumple/cumple_4/cumple_4a_r.webp',
-      '../dist/imagenes/toppers/cumple/cumple_4/cumple_4a_b.webp',
     ],
     badge: 'Nuevo'
   },
@@ -264,7 +241,6 @@ const topperProducts = [
     desc: 'Topper con diseño tierno y festivo. Perfecto para celebraciones con temática colorida.\nColores disponibles:\n• Negro\n• Blanco\n• Violeta\n• Rojo\n• Rosa\n• Salmón',
     images: [
       '../dist/imagenes/toppers/cumple/cumple_5/cumple_5a_p.webp',
-      '../dist/imagenes/toppers/cumple/cumple_5/cumple_5a_b.webp',
     ],
     badge: 'Nuevo'
   },
