@@ -29,7 +29,7 @@ El array `products` al inicio de `main.js` es el único lugar para gestionar el 
 ```js
 {
   id: Number,          // único
-  category: 'topper' | 'arreglo' | 'caja' | 'decorativo' | 'desayuno',
+  category: 'topper' | 'arreglo' | 'caja' | 'hogar' | 'negocio',
   name: String,
   desc: String,
   images: [String],   // rutas relativas a la raíz; primera imagen = portada

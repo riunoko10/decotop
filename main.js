@@ -7,7 +7,7 @@ let currentPage = 1;
 /* ======= PRODUCTOS =======
    Para agregar/editar productos:
      - images: array de rutas (primera = portada). Mínimo 1.
-     - category: "topper" | "arreglo" | "caja" | "decorativo" | "desayuno"
+     - category: "topper" | "arreglo" | "caja" | "hogar" | "negocio"
      - badge: texto del badge o null
 =============================== */
 const products = [
@@ -329,6 +329,19 @@ const products = [
     images: ['dist/imagenes/toppers/dia-madre/madre_012_r.webp'],
     badge: 'Nuevo',
     material: 'Plástico PLA'
+  },
+  {
+    id: 31,
+    category: 'hogar',
+    name: 'Soporte de Exhibición para Equipo de Bicicleta',
+    desc: 'Soporte para exhibir y organizar tu equipo de ciclismo: zapatos, casco, gafas, GPS y guantes. Se fija a cualquier superficie con dos tornillos avellanados.',
+    images: [
+      'dist/imagenes/hogar/soporte_accesorios_cicla/soporte_negro_frontal.webp',
+      'dist/imagenes/hogar/soporte_accesorios_cicla/soporte_negro_perfil.webp',
+      'dist/imagenes/hogar/soporte_accesorios_cicla/soporte_rojo_uso.webp',
+    ],
+    badge: 'Nuevo',
+    material: 'Plástico PLA'
   }
 ];
 
@@ -337,8 +350,8 @@ const catLabel = {
   topper:     'Topper',
   arreglo:    'Arreglo Floral',
   caja:       'Caja Especial',
-  decorativo: 'Decorativo',
-  desayuno:   'Desayuno Sorpresa'
+  hogar:      'Hogar',
+  negocio:    'Negocio'
 };
 
 /* ======= WA ICON ======= */
